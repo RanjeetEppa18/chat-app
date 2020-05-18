@@ -91,7 +91,7 @@ hr.style-two {
   font-weight: bold;
   height: auto;
   line-height: normal;
-  max-width: 220px;
+  width: auto !important;
   min-height: 40px;
   padding: 8px 16px;
   text-align: left;

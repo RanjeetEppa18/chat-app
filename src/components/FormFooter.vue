@@ -15,7 +15,7 @@
         />
       </span>
       <span class="firebaseui-idp-text firebaseui-idp-text-long"
-        >Sign in with Google</span
+        >Authenticate with Google</span
       >
       <span class="firebaseui-idp-text firebaseui-idp-text-short">Google</span>
     </button>
